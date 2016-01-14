@@ -1,7 +1,7 @@
-- author: George R. R. Martin
-  title: "A Game of Thrones"
+- author:   George R. R. Martin
+  title:    "A Game of Thrones"
   finished: 2015-06-07
-  rating: 4
+  rating:   4
   quotes:
     - page: "14"
       content: "A ruler who hides behind paid executioners soon forgets what death is."
@@ -23,10 +23,10 @@
       content: "Love is the bane of honor, the death of duty."
     - page: "638"
       content: "Wind and words. Wind and words. We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy."
-- author: George R. R. Martin
-  title: "A Clash of Kings"
+- author:   George R. R. Martin
+  title:    "A Clash of Kings"
   finished: 2015-06-13
-  rating: 3
+  rating:   3
   quotes:
     - page: "72"
       content: There’s no shame in fear, my father told me, what matters is how we face it.
@@ -48,10 +48,7 @@
       content: You little fool. Tears are not a woman’s only weapon. You’ve got another one between your legs, and you’d best learn to use it. You’ll find men use their swords freely enough. Both kinds of swords.
     - page: "711"
       content: Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men. I pledge my life and honor to the Night’s Watch, for this night and all the nights to come.
-
-
-
-- author: Donald Davis
-  title: "Where There Are Mountains: An Environmental History of the Southern Appalachians"
+- author:   Donald Davis
+  title:    "Where There Are Mountains: An Environmental History of the Southern Appalachians"
   finished: 2015-12-03
-  rating: 3
+  rating:   3
