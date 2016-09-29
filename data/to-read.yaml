@@ -1,82 +1,80 @@
-- author: J. R. R. Tolkien
-  title:  The Silmarillion
-- author: George R. R. Martin
-  title:  A Storm of Swords
-- author: George R. R. Martin
-  title:  A Feast for Crows
-- author: George R. R. Martin
-  title:  A Dance with Dragons
-- author: George R. R. Martin
-  title:  The Winds of Winter
-- author: George R. R. Martin
-  title:  A Dream of Spring
-- author: Aldous Huxley
-  title:  Brave New World
-- author: Antoine de Saint-Exupéry
-  title:  Le Petit Prince
-- author: Antoine de Saint-Exupéry
-  title:  Pilote de Guerre
-- author: Edward Gibbon
-  title:  The History of the Decline and Fall of the Roman Empire
-- author: Ernest Hemingway
-  title:  A Farewell to Arms
-- author: Erich Maria Remarque
-  title:  All Quiet on the Western Front
-- author: Barbara W. Tuchman
-  title:  The Guns of August
-- author: Ian Kerhsaw
-  title:  Hitler
-- author: Antony Beevor
-  title:  "The Battle for Spain: The Spanish Civil War"
-- author: Antony Beevor
-  title:  "Stalingrad: The Fateful Siege, 1942-1943"
-- author: Antony Beevor
-  title:  The Fall of Berlin 1945
-- author: Antony Beevor
-  title:  "D-Day: The Battle for Normandy"
-- author: Antony Beevor
-  title:  The Second World War
-- author: Antony Beevor
-  title:  "Paris: After the Liberation 1944-1949"
-- author: Antony Beevor
-  title:  "Crete: The Battle and The Resistance"
-- author: Antony Beevor
-  title:  "Ardennes 1944: Hitler's Last Gamble"
-- author: William L. Shirer
-  title:  "The Rise and Fall of the Third Reich: A History of Nazi Germany"
-- author: Mark Bowden
-  title:  Black Hawk Down
-- author: James D. Bradley
-  title:  Flags of Our Fathers
-- author: Mark Riebling
-  title:  "Church of Spies: The Pope’s Secret War Against Hitler"
-- author: Andy Weir
-  title:  The Martian
-- author: Chuck Wendig
-  title:  Aftermath
-- author: Kevin Hearne
-  title:  Heir to the Jedi
-- author: Alexander Freed
-  titke:  "Battlefront: Twilight Company"
-- author: James Luceno
-  title:  Tarkin
-- author: Paul S. Kemp
-  title:  Lords of the Sith
-- author: David McCullough
-  title: "1776"
-- author: Frederick W. Mote
-  title:  "Imperial China 900-1800"
-- author: Geoffrey Hosking
-  title:  "Russia: People and Empire: 1552-1917"
-- author: Leo Tolstoy
-  title:  War and Peace
-- author: Dale Carnegie
-  title:  "How to Win Friends & Influence People"
-- author: Donald Trump
-  title:  The Art of the Deal
-- author: "Chol-hwan Kang"
-  title:  "The Aquariums of Pyongyang: Ten Years in the North Korean Gulag"
+- author: "Aldous Huxley"
+  title: "Brave New World"
+- author: "Alexander Hamilton"
+  title: "The Federalist Papers"
 - author: "Andrew Leatherbarrow"
-  title:  "Chernobyl 01:23:40"
-- author: Alexander Hamilton
-  title:  The Federalist Papers
+  title: "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster"
+- author: "Andrew Roberts"
+  title: "Napoleon the Great"
+- author: "Andy Weir"
+  title: "The Martian"
+- author: "Antoine de Saint-Exupéry"
+  title: "Le Petit Prince"
+- author: "Antoine de Saint-Exupéry"
+  title: "Pilote de guerre"
+- author: "Antony Beevor"
+  title: "Ardennes 1944: Hitler's Last Gamble"
+- author: "Antony Beevor"
+  title: "Crete: The Battle And The Resistance"
+- author: "Antony Beevor"
+  title: "D-Day: The Battle for Normandy"
+- author: "Antony Beevor"
+  title: "Paris: After the Liberation 1944-1949"
+- author: "Antony Beevor"
+  title: "Stalingrad: The Fateful Siege, 1942–1943"
+- author: "Antony Beevor"
+  title: "The Battle for Spain: The Spanish Civil War 1936-1939"
+- author: "Antony Beevor"
+  title: "The Fall of Berlin 1945"
+- author: "Antony Beevor"
+  title: "The Second World War"
+- author: "Chuck Wendig"
+  title: "Aftermath (Star Wars: Aftermath, #1)"
+- author: "Dale Carnegie"
+  title: "How to Win Friends and Influence People"
+- author: "David McCullough"
+  title: "1776"
+- author: "Donald J. Trump"
+  title: "Trump: The Art of the Deal"
+- author: "Edward Gibbon"
+  title: "The Decline and Fall of the Roman Empire"
+- author: "Edward Gibbon"
+  title: "The History of the Decline and Fall of the Roman Empire Volume I"
+- author: "Edward Gibbon"
+  title: "The History of the Decline and Fall of the Roman Empire Volume II"
+- author: "Edward Gibbon"
+  title: "The History of the Decline and Fall of the Roman Empire Volume III"
+- author: "Erich Maria Remarque"
+  title: "All Quiet on the Western Front"
+- author: "Ernest Hemingway"
+  title: "A Farewell to Arms"
+- author: "Frederick W. Mote"
+  title: "Imperial China 900-1800"
+- author: "Geoffrey Hosking"
+  title: "Russia: People and Empire, 1552-1917"
+- author: "George R.R. Martin"
+  title: "A Dance with Dragons (A Song of Ice and Fire, #5)"
+- author: "George R.R. Martin"
+  title: "A Feast for Crows (A Song of Ice and Fire, #4)"
+- author: "Ian Kershaw"
+  title: "Hitler"
+- author: "J.R.R. Tolkien"
+  title: "The Silmarillion"
+- author: "James D. Bradley"
+  title: "Flags of Our Fathers"
+- author: "James Luceno"
+  title: "Tarkin"
+- author: "Kang Chol-Hwan"
+  title: "The Aquariums of Pyongyang: Ten Years in the North Korean Gulag"
+- author: "Kevin Hearne"
+  title: "Heir to the Jedi"
+- author: "Leo Tolstoy"
+  title: "War and Peace"
+- author: "Mark Bowden"
+  title: "Black Hawk Down"
+- author: "Mark Riebling"
+  title: "Church of Spies: The Pope's Secret War Against Hitler"
+- author: "Paul S. Kemp"
+  title: "Lords of the Sith"
+- author: "William L. Shirer"
+  title: "The Rise and Fall of the Third Reich: A History of Nazi Germany"
