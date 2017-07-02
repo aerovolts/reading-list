@@ -1,80 +1,138 @@
-- author: "Aldous Huxley"
-  title: "Brave New World"
-- author: "Alexander Hamilton"
-  title: "The Federalist Papers"
-- author: "Andrew Leatherbarrow"
-  title: "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster"
-- author: "Andrew Roberts"
-  title: "Napoleon the Great"
-- author: "Andy Weir"
-  title: "The Martian"
-- author: "Antoine de Saint-Exupéry"
-  title: "Le Petit Prince"
-- author: "Antoine de Saint-Exupéry"
-  title: "Pilote de guerre"
-- author: "Antony Beevor"
-  title: "Ardennes 1944: Hitler's Last Gamble"
-- author: "Antony Beevor"
-  title: "Crete: The Battle And The Resistance"
-- author: "Antony Beevor"
-  title: "D-Day: The Battle for Normandy"
-- author: "Antony Beevor"
-  title: "Paris: After the Liberation 1944-1949"
-- author: "Antony Beevor"
-  title: "Stalingrad: The Fateful Siege, 1942–1943"
-- author: "Antony Beevor"
-  title: "The Battle for Spain: The Spanish Civil War 1936-1939"
-- author: "Antony Beevor"
-  title: "The Fall of Berlin 1945"
-- author: "Antony Beevor"
-  title: "The Second World War"
-- author: "Chuck Wendig"
-  title: "Aftermath (Star Wars: Aftermath, #1)"
-- author: "Dale Carnegie"
-  title: "How to Win Friends and Influence People"
-- author: "David McCullough"
-  title: "1776"
-- author: "Donald J. Trump"
-  title: "Trump: The Art of the Deal"
-- author: "Edward Gibbon"
-  title: "The Decline and Fall of the Roman Empire"
-- author: "Edward Gibbon"
-  title: "The History of the Decline and Fall of the Roman Empire Volume I"
-- author: "Edward Gibbon"
-  title: "The History of the Decline and Fall of the Roman Empire Volume II"
-- author: "Edward Gibbon"
-  title: "The History of the Decline and Fall of the Roman Empire Volume III"
-- author: "Erich Maria Remarque"
-  title: "All Quiet on the Western Front"
-- author: "Ernest Hemingway"
-  title: "A Farewell to Arms"
-- author: "Frederick W. Mote"
-  title: "Imperial China 900-1800"
-- author: "Geoffrey Hosking"
-  title: "Russia: People and Empire, 1552-1917"
-- author: "George R.R. Martin"
-  title: "A Dance with Dragons (A Song of Ice and Fire, #5)"
-- author: "George R.R. Martin"
-  title: "A Feast for Crows (A Song of Ice and Fire, #4)"
-- author: "Ian Kershaw"
-  title: "Hitler"
-- author: "J.R.R. Tolkien"
-  title: "The Silmarillion"
-- author: "James D. Bradley"
-  title: "Flags of Our Fathers"
-- author: "James Luceno"
-  title: "Tarkin"
-- author: "Kang Chol-Hwan"
-  title: "The Aquariums of Pyongyang: Ten Years in the North Korean Gulag"
-- author: "Kevin Hearne"
-  title: "Heir to the Jedi"
-- author: "Leo Tolstoy"
-  title: "War and Peace"
-- author: "Mark Bowden"
-  title: "Black Hawk Down"
-- author: "Mark Riebling"
-  title: "Church of Spies: The Pope's Secret War Against Hitler"
-- author: "Paul S. Kemp"
-  title: "Lords of the Sith"
-- author: "William L. Shirer"
-  title: "The Rise and Fall of the Third Reich: A History of Nazi Germany"
+- author: Antony Beevor
+  title:  "Ardennes 1944: Hitler's Last Gamble"
+  url:    "http://www.goodreads.com/book/show/24611569-ardennes-1944"
+- author: Antony Beevor
+  title:  "Crete: The Battle And The Resistance"
+  url:    "http://www.goodreads.com/book/show/307588.Crete"
+- author: Antony Beevor
+  title:  "D-Day: The Battle for Normandy"
+  url:    "http://www.goodreads.com/book/show/2455549.D_Day"
+- author: Antony Beevor
+  title:  "Paris: After the Liberation 1944-1949"
+  url:    "http://www.goodreads.com/book/show/42662.Paris"
+- author: Antony Beevor
+  title:  "Stalingrad: The Fateful Siege, 1942–1943"
+  url:    "http://www.goodreads.com/book/show/542389.Stalingrad"
+- author: Antony Beevor
+  title:  "The Battle for Spain: The Spanish Civil War 1936-1939"
+  url:    "http://www.goodreads.com/book/show/42660.The_Battle_for_Spain"
+- author: Antony Beevor
+  title:  "The Fall of Berlin 1945"
+  url:    "http://www.goodreads.com/book/show/42661.The_Fall_of_Berlin_1945"
+- author: Antony Beevor
+  title:  "The Second World War"
+  url:    "http://www.goodreads.com/book/show/13528287-the-second-world-war"
+- author: Ben S. Bernanke
+  title:  "The Courage to Act: A Memoir of a Crisis and Its Aftermath"
+  url:    "http://www.goodreads.com/book/show/25622135-the-courage-to-act"
+- author: Edward L. Bernays
+  title:  "Propaganda"
+  url:    "http://www.goodreads.com/book/show/493212.Propaganda"
+- author: Mark Bowden
+  title:  "Black Hawk Down"
+  url:    "http://www.goodreads.com/book/show/55403.Black_Hawk_Down"
+- author: James D. Bradley
+  title:  "Flags of Our Fathers"
+  url:    "http://www.goodreads.com/book/show/10058.Flags_of_Our_Fathers"
+- author: George W. Bush
+  title:  "Decision Points"
+  url:    "http://www.goodreads.com/book/show/8099187-decision-points"
+- author: Dale Carnegie
+  title:  "How to Win Friends and Influence People"
+  url:    "http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People"
+- author: Kang Chol-Hwan
+  title:  "The Aquariums of Pyongyang: Ten Years in the North Korean Gulag"
+  url:    "http://www.goodreads.com/book/show/69951.The_Aquariums_of_Pyongyang"
+- author: Edward Gibbon
+  title:  "The Decline and Fall of the Roman Empire"
+  url:    "http://www.goodreads.com/book/show/19400.The_Decline_and_Fall_of_the_Roman_Empire"
+- author: Edward Gibbon
+  title:  "The History of the Decline and Fall of the Roman Empire Volume I"
+  url:    "http://www.goodreads.com/book/show/377965.The_History_of_the_Decline_and_Fall_of_the_Roman_Empire_Volume_I"
+- author: Edward Gibbon
+  title:  "The History of the Decline and Fall of the Roman Empire Volume II"
+  url:    "http://www.goodreads.com/book/show/1345609.The_History_of_the_Decline_and_Fall_of_the_Roman_Empire_Volume_II"
+- author: Edward Gibbon
+  title:  "The History of the Decline and Fall of the Roman Empire Volume III"
+  url:    "http://www.goodreads.com/book/show/1345610.The_History_of_the_Decline_and_Fall_of_the_Roman_Empire_Volume_III"
+- author: Alexander Hamilton
+  title:  "The Federalist Papers"
+  url:    "http://www.goodreads.com/book/show/110331.The_Federalist_Papers"
+- author: Peter Hart
+  title:  "The Somme: The Darkest Hour on the Western Front"
+  url:    "http://www.goodreads.com/book/show/5734125-the-somme"
+- author: Kevin Hearne
+  title:  "Heir to the Jedi"
+  url:    "http://www.goodreads.com/book/show/22059478-heir-to-the-jedi"
+- author: Ernest Hemingway
+  title:  "A Farewell to Arms"
+  url:    "http://www.goodreads.com/book/show/10799.A_Farewell_to_Arms"
+- author: Holger H. Herwig
+  title:  "The Marne, 1914: The Opening of World War I and the Battle That Changed the World"
+  url:    "http://www.goodreads.com/book/show/6723363-the-marne-1914"
+- author: Geoffrey Hosking
+  title:  "Russia: People and Empire, 1552-1917"
+  url:    "http://www.goodreads.com/book/show/1029979.Russia"
+- author: Aldous Huxley
+  title:  "Brave New World"
+  url:    "http://www.goodreads.com/book/show/5129.Brave_New_World"
+- author: Paul S. Kemp
+  title:  "Lords of the Sith"
+  url:    "http://www.goodreads.com/book/show/22012290-lords-of-the-sith"
+- author: Ian Kershaw
+  title:  "Hitler"
+  url:    "http://www.goodreads.com/book/show/3741342-hitler"
+- author: Arthur Koestler
+  title:  "Darkness at Noon"
+  url:    "http://www.goodreads.com/book/show/30672.Darkness_at_Noon"
+- author: Andrew Leatherbarrow
+  title:  "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster"
+  url:    "http://www.goodreads.com/book/show/29945060-chernobyl-01"
+- author: James Luceno
+  title:  "Tarkin"
+  url:    "http://www.goodreads.com/book/show/22012250-tarkin"
+- author: Margaret MacMillan
+  title:  "Paris 1919: Six Months That Changed the World"
+  url:    "http://www.goodreads.com/book/show/26348.Paris_1919"
+- author: George R.R. Martin
+  title:  "A Dance with Dragons (A Song of Ice and Fire, #5)"
+  url:    "http://www.goodreads.com/book/show/10664113-a-dance-with-dragons"
+- author: George R.R. Martin
+  title:  "A Feast for Crows (A Song of Ice and Fire, #4)"
+  url:    "http://www.goodreads.com/book/show/13497.A_Feast_for_Crows"
+- author: David McCullough
+  title:  "1776"
+  url:    "http://www.goodreads.com/book/show/1067.1776"
+- author: Frederick W. Mote
+  title:  "Imperial China 900-1800"
+  url:    "http://www.goodreads.com/book/show/272793.Imperial_China_900_1800"
+- author: Erich Maria Remarque
+  title:  "All Quiet on the Western Front"
+  url:    "http://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front"
+- author: Mark Riebling
+  title:  "Church of Spies: The Pope's Secret War Against Hitler"
+  url:    "http://www.goodreads.com/book/show/24945325-church-of-spies"
+- author: Andrew Roberts
+  title:  "Napoleon the Great"
+  url:    "http://www.goodreads.com/book/show/30375037-napoleon-the-great"
+- author: Antoine de Saint-Exupéry
+  title:  "Le Petit Prince"
+  url:    "http://www.goodreads.com/book/show/70720.Le_Petit_Prince"
+- author: Antoine de Saint-Exupéry
+  title:  "Pilote de guerre"
+  url:    "http://www.goodreads.com/book/show/229806.Pilote_de_guerre"
+- author: William L. Shirer
+  title:  "The Rise and Fall of the Third Reich: A History of Nazi Germany"
+  url:    "http://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich"
+- author: J.R.R. Tolkien
+  title:  "The Silmarillion"
+  url:    "http://www.goodreads.com/book/show/15708993-the-silmarillion"
+- author: Leo Tolstoy
+  title:  "War and Peace"
+  url:    "http://www.goodreads.com/book/show/656.War_and_Peace"
+- author: Andy Weir
+  title:  "The Martian"
+  url:    "http://www.goodreads.com/book/show/18007564-the-martian"
+- author: Chuck Wendig
+  title:  "Aftermath (Star Wars: Aftermath, #1)"
+  url:    "http://www.goodreads.com/book/show/25131600-aftermath"
